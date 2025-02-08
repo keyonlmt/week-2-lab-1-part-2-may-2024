@@ -26,8 +26,8 @@ A simple HTML project to practice HTML tags like IMG and A. Also, to learn about
 - [x] Create Readme
 - [x] Create index.html
 - [x] Create frogs.html
-- [ ] Update README author
-- [ ] Create fish.html
+- [x ] Update README author
+- [x ] Create fish.html
 - [ ] Create 3 images
 - [ ] Create 3 links to websites
 - [ ] Express creativity
@@ -44,6 +44,7 @@ You may choose to do a bonus or extension. These are optional activities that wi
 ## Contact
 
 Author: robert.mccreary@codex.academy
+Autoor: Kimberly Fleming
 
 ## Acknowledgements
 
